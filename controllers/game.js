@@ -125,5 +125,6 @@ module.exports = {
     createGame,
     getGame,
     createGuess,
-    deleteGame
+    deleteGame,
+    games
   };

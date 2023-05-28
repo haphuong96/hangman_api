@@ -3,3 +3,5 @@ const gameStatus = {
     WON: "Won",
     LOST: "Lost"
 }
+
+module.exports = {gameStatus};
